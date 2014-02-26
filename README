@@ -1,0 +1,16 @@
+Welcome
+--------
+This repo contains graph implementations in the following languages :
+   1. C++
+   2. Cuda
+   3. Java
+
+Following are the implementations :
+   1. Adjacency Lists Represantation
+   2. Adjacency Matrix Representation
+   3. Breadth-First Search with equiweighted edges and using (1)
+   4. Depth-First Search with equiweighed edges and using (1)
+   5. Topological-Sort of dag (directed acyclic graph)using (4) and (5)
+   6. Finding Strongly Connected Components of a directed graph using (4)
+   7. Data-Structure for Dis-Joint Sets used in (8)
+   8. Kruskal algorithm to find minimum spanning tree using (7)
