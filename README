@@ -2,8 +2,9 @@ Welcome
 --------
 This repo contains graph implementations in the following languages :
    1. C++
-   2. Cuda
-   3. Java
+   2. C
+   3. Cuda(Soon)
+   4. Java(Soon)
 
 Following are the implementations :
    1. Adjacency Lists Represantation
@@ -14,3 +15,5 @@ Following are the implementations :
    6. Finding Strongly Connected Components of a directed graph using (4)
    7. Data-Structure for Dis-Joint Sets used in (8)
    8. Kruskal algorithm to find minimum spanning tree using (7)
+   9. Prim Algorithm (Under Implementation)
+   10. Bellman-Ford Algorithm to find shortest path of weighted graphs
